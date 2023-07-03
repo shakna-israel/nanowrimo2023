@@ -20,3 +20,7 @@ All rights reserved. This is a work of fiction. Any resemblance to persons livin
 ![The Tumultuous Tours of Ivy Green](cover.png){ style="width: 80%; margin: auto;" }
 
 ---
+
+Originally written for Camp Nanowrimo, 2023.
+
+---

@@ -13,6 +13,7 @@ toc: true
 `\newpage{}`{=latex}
 
 -   [The Skies of Earth](#the-skies-of-earth)
+-   [TODO](#todo)
 
 ```{=latex}
 \begin{center}
@@ -55,6 +56,25 @@ persons living or dead is purely coincidental.
 ```
 ![The Tumultuous Tours of Ivy
 Green](cover.png){style="width: 80%; margin: auto;"}
+
+```{=latex}
+\begin{center}
+```
+```{=latex}
+\text{* * *}
+```
+```{=latex}
+\end{center}
+```
+`<p class="pagebreak">&#42; &#42; &#42;</p>`{=html}
+
+```{=latex}
+\pagebreak
+```
+```{=latex}
+\newpage
+```
+Originally written for Camp Nanowrimo, 2023.
 
 ```{=latex}
 \begin{center}
@@ -626,6 +646,39 @@ to make friends before.
 ```{=latex}
 \newpage
 ```
+TODO
+====
+
+Humans were actually something Ivy knew far too much about.
+
+She'd written an entire dissertation on the pre-galactic race, and how
+it seemed that they had a natural barrier to joining the rest of the
+civilised world. Every single time that they appeared to find an
+economic and political balance, and started to look towards the stars,
+they would suddenly collapse into war and hatred.
+
+It was a fascinating, and altogether disturbing, topic of conversation.
+
+At least, it was to her.
+
+When Talia was munching on some grass and waking everyone up that
+morning, Ivy got the feeling that when the woman asked if anyone knew
+what the humans were like, she probably wasn't asking for a technical
+analysis of their political history.
+
+"I think they knowing mine." Desdemona stated lightly.
+
+Ivy didn't know if that was true. The humans did have a considerable
+number of theologies, any one of which might possibly refer to third
+contact, in either an official capacity, or a tour messing around with a
+less advanced society, but Ivy just didn't see it.
+
+The resources of the planet were altogether basic. They used a primitive
+form of atom smashing that required so much room it covered several
+countries, and so much power that it could never really be justified.
+Without access to the elements like TODO, that were required for
+effective spaceflight, what could anyone want with them?
+
 ```{=latex}
 \begin{center}
 ```
