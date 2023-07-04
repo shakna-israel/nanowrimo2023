@@ -16,8 +16,6 @@ For easier reading, you can grab the tale as:
 
 * [ePub](book.epub)
 
-* [Markdown](book.md)
-
 * [PDF](book.pdf)
 
 And for those of us who are neurodivergent, there are some stylistic changes that may make it easier to read, with these files:
