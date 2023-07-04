@@ -12,6 +12,8 @@ This is a science fiction tale, about a woman acting as a servant, aboard an ali
 
 ## Generated Files
 
+[Read Online](https://jamesmilne.substack.com/p/the-tumultuous-tours-of-ivy-green).
+
 For easier reading, you can grab the tale as:
 
 * [ePub](book.epub)
