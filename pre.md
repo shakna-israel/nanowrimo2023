@@ -17,6 +17,10 @@ All rights reserved. This is a work of fiction. Any resemblance to persons livin
 
 ---
 
+An intergalactic cruiseship cleaner discovers fun, terror, and relationship, as she tries to step out and explore the galaxy.
+
+---
+
 ![The Tumultuous Tours of Ivy Green](cover.png){ style="width: 80%; margin: auto;" }
 
 ---
