@@ -12,7 +12,7 @@ Originally written for Camp Nanowrimo, 2023.
 
 ## Generated Files
 
-[Read Online](https://jamesmilne.substack.com/p/the-tumultuous-tours-of-ivy-green).
+[Read Online](https://www.wattpad.com/myworks/345912545-the-tumultuous-tours-of-ivy-green).
 
 For easier reading, you can grab the tale as:
 
