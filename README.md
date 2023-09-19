@@ -4,9 +4,9 @@
 
 ---
 
-Written for Camp Nanowrimo, 2023.
+An intergalactic cruiseship cleaner discovers fun, terror, and relationship, as she tries to step out and explore the galaxy.
 
-This is a science fiction tale, about a woman acting as a servant, aboard an alien cruiseliner that has just arrived at the Earth.
+Originally written for Camp Nanowrimo, 2023.
 
 ---
 
