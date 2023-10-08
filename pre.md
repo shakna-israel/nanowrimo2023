@@ -6,7 +6,7 @@ papersize: a5
 geometry: margin=20mm
 toc: true
 include-before:
-- '`\newpage{}`{=latex}'
+  - '`\newpage{}`{=latex}'
 ---
 
 ---

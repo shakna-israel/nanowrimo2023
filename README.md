@@ -4,9 +4,23 @@
 
 ---
 
+## Blurb
+
 An intergalactic cruiseship cleaner discovers fun, terror, and relationship, as she tries to step out and explore the galaxy.
 
 Originally written for Camp Nanowrimo, 2023.
+
+Written by [James Milne](https://jamesmilne.org).
+
+---
+
+[//]: # (TODO: Remove this section, when book finished.)
+
+## In Development
+
+This book is *in development*.
+
+7/13 chapters complete.
 
 ---
 
