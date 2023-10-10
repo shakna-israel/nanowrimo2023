@@ -26,7 +26,7 @@ This book is *in development*.
 
 ## Generated Files
 
-[Read Online](https://www.wattpad.com/story/345912545-the-tumultuous-tours-of-ivy-green).
+[Read Online](https://www.royalroad.com/fiction/75346/the-tumultuous-tours-of-ivy-green).
 
 For easier reading, you can grab the tale as:
 

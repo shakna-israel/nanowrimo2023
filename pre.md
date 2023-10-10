@@ -55,6 +55,6 @@ An intergalactic cruiseship cleaner discovers fun, terror, and relationship, as 
 
 This book is *in development*.
 
-It can also be read online [here](https://www.wattpad.com/story/345912545-the-tumultuous-tours-of-ivy-green), where you can leave comments and interact with the author.
+It can also be read online [here](https://www.royalroad.com/fiction/75346/the-tumultuous-tours-of-ivy-green), where you can leave comments and interact with the author.
 
 ---
