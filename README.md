@@ -20,7 +20,7 @@ Written by [James Milne](https://jamesmilne.org).
 
 This book is *in development*.
 
-10/13 chapters complete.
+11/13 chapters complete.
 
 ---
 
