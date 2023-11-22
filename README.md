@@ -14,21 +14,13 @@ Written by [James Milne](https://jamesmilne.org).
 
 ---
 
-[//]: # (TODO: Remove this section, when book finished.)
+## Read it
 
-## In Development
+You can read it freely [here](https://www.royalroad.com/fiction/75346/the-tumultuous-tours-of-ivy-green).
 
-This book is *in development*.
+Or to support the author, grab your copy [here](https://jamesmilne.org/book?id=B0CNS36Z91).
 
-11/13 chapters complete.
-
----
-
-## Generated Files
-
-[Read Online](https://www.royalroad.com/fiction/75346/the-tumultuous-tours-of-ivy-green).
-
-For easier reading, you can grab the tale as:
+Otherwise, you can directly get the files:
 
 * [ePub](book.epub)
 
